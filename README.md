@@ -3,6 +3,7 @@
 > ⚠️ **声明 / Disclaimer**：  
 > 本仓库脚本由 AI 生成，基于对 C# / .NET IL 逆向与字节码修补技术的公开学习资料整理而成，仅供技术交流与个人学习研究使用。  
 > 本项目仅供 C# / .NET IL 逆向与字节码修补技术交流学习，请勿用于任何侵权或商业用途。
+> 如想支持作者可以转存一下迅雷【多少得圈点（bushi】：https://pan.xunlei.com/s/VP4kvoAPgJ2Kx9LQtSGDsunRA1?pwd=25mi#
 
 ---
 
